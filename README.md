@@ -27,10 +27,11 @@ I'm Ana, a fullstack web developer who is always looking to learn new technologi
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
+##
 ![Ana-Laura-Simoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Laura-Simoes&theme=omni&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Simoes&theme=omni&show_icons=true&hide=shell)
+##
+<h2> Connect with me 💬 </h2>
 
-<h2> Connect with me </h2>
 
-
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-laura-sim%C3%B5es-de-matos-3635b2204/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ana_laura_mt/)
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-laura-sim%C3%B5es-de-matos-3635b2204/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ana_laura_mt/)
