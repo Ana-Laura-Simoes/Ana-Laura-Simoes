@@ -1,26 +1,13 @@
-## Hello World, I'm Ana! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+ 
+I'm Ana, a fullstack web developer who is always looking to learn new technologies!
 
-<!--
-**Ana-Laura-Simoes/Ana-Laura-Simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- :books:  I'm an undergraduate computer science student at UNESP (Universidade Estadual Paulista)
-- 🌱  I’m currently studying to be a Full-Stack Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
--->
-
-- 📚  I'm a 3rd Year undergraduate computer science student at UNESP (Universidade Estadual Paulista)
-- 💻  I’m currently studying to be a Full-Stack Developer
+- 📚  I'm a 3rd Year computer science student at UNESP (Universidade Estadual Paulista)
+- 💻  I’m currently studying to be a Full-Stack Developer 
+- 😄 Fun fact : I'm a passionate pet mom 🐱
 - 👩 Pronouns: She/Her
 
-<h2> Languages and tools: </h2>
+<h2> 🛠️ Languages and tools: </h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -42,3 +29,8 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&s
 
 ![Ana-Laura-Simoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Laura-Simoes&theme=omni&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Simoes&theme=omni&show_icons=true&hide=shell)
+
+<h2> Connect with me </h2>
+
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-laura-sim%C3%B5es-de-matos-3635b2204/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ana_laura_mt/)
