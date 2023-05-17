@@ -3,12 +3,12 @@ Hello World!
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 </h1>
 
-I'm Ana, a fullstack web developer who is always looking to learn new technologies!
+Hi there, I'm Ana!
 
-- 📚 I'm a 3rd Year computer science student at UNESP (Universidade Estadual Paulista)
-- 💻 I’m currently studying to be a Full-Stack Developer
-- 😄 Fun fact : I'm a passionate pet mom 🐱
-- 👩 Pronouns: She/Her
+- 💻 I’m currently working as a Software Engineer at @olxbr
+- 📚 I'm aways learning something new
+- 😻 Fun fact : I'm a passionate pet mom 
+- 🙂 Pronouns: She/Her
 
 <div align="center">
   <h2>Languages e tools 🛠</h2>
@@ -64,7 +64,7 @@ I'm Ana, a fullstack web developer who is always looking to learn new technologi
   <a href="https://www.linkedin.com/in/ana-laura-sim%C3%B5es/">
     <img height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
   </a>
-  <a href="mailto:ana.simoes-matos@unesp.br">
+  <a href="mailto:ana.simoesmatos@gmail.com">
     <img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
   </a>
 </div>
