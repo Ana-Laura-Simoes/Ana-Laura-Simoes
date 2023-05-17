@@ -1,16 +1,11 @@
-<h1 align="center">
-Hello World!
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-</h1>
-
-Hi there, I'm Ana!
+## Hi there, I'm Ana!  <img src="gifs/wave.gif" width="30">
 
 - 💻 I’m currently working as a Software Engineer at @olxbr
 - 📚 I'm aways learning something new
 - 😻 Fun fact : I'm a passionate pet mom 
 - 🙂 Pronouns: She/Her
 
-<div align="center">
+<!-- <div align="center">
   <h2>Languages e tools 🛠</h2>
  
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react logo"/>
@@ -43,24 +38,18 @@ Hi there, I'm Ana!
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code logo" />
 
-</div>
-
+</div> -->
  <br />
-<div align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" width:"350px" src="https://github-readme-stats.vercel.app/api?username=Ana-Laura-Simoes&theme=omni&show_icons=true" alt="Github Stats"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Simoes&theme=omni&show_icons=true&hide=shell" alt="Most Used Languages" />
-  </a>
 
-</div>
+## My gitHub Stats
+<details><summary> GitHub Stats</summary><img align="left" alt="Ana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ana-Laura-Simoes&show_icons=true&theme=radical" /></details>
+<details><summary> Most Used Languages</summary><img align="left" alt="Laura's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Simoes&layout=compact&theme=radical" /></details>
 
-<h2 align="center"> Connect with me 💬 </h2>
+</br>
 
-  <div align="center">
+## Connect with me 💬
+
+  <div align="left">
   <a href="https://www.linkedin.com/in/ana-laura-sim%C3%B5es/">
     <img height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
   </a>
