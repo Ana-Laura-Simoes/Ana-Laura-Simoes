@@ -1,11 +1,12 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3002&pause=1000&color=110011BA&center=true&multiline=true&width=435&height=85&lines=Hey,+there!;Nice+to+have+you+here" alt="Typing SVG" /></a>
-</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3002&pause=1000&color=110011BA&center=true&vCenter=tru&multiline=true&width=435&height=85&lines=Hey,+there!;Nice+to+have+you+here" alt="Typing SVG" /></a>
+</p>
 
 <br>
+<br>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width=40% height=75%/>
 
-<!-- :space_invader: -->
 
 ### &nbsp;&nbsp;A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
@@ -14,7 +15,7 @@
 
 
 - &nbsp;&nbsp;&nbsp;💻&nbsp;I’m currently working as a Software Engineer at at [OLX Brasil](https://www.linkedin.com/company/olx-brasil/mycompany/)
-- &nbsp;&nbsp;&nbsp;🛠️&nbsp;Passionate with problem - solving and daily routines automation
+- &nbsp;&nbsp;&nbsp;:space_invader:&nbsp;Passionate with problem - solving and daily routines automation
 - &nbsp;&nbsp;&nbsp;📚&nbsp;Aways learning something new
 - &nbsp;&nbsp;&nbsp;💡&nbsp;Pronouns: She/Her
 
