@@ -1,4 +1,6 @@
-<!-- <img src="images/svg/header_en.svg"></img> -->
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3002&pause=1000&color=110011BA&center=true&multiline=true&width=435&height=85&lines=Hey,+there!;Nice+to+have+you+here" alt="Typing SVG" /></a>
+</h1>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="assets/us-flag.png" height="13"> English</a></td></tr>
@@ -23,10 +25,10 @@
 <summary><b>💬&nbsp;Connect with me</b></summary>
   <br/>
 <p align="left">
-  <a href="mailto:ana.simoesmatos@gmail.com?subject=Olá%Ana%20Simões"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ana_laura_mt/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ana-laura-sim%C3%B5es/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+   <a href="https://www.linkedin.com/in/ana-laura-sim%C3%B5es/"><img width="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:ana.simoesmatos@gmail.com?subject=Olá%Ana%20Simões"><img width="40x" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/ana_laura_mt/"><img width="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
 </details>
 
 <details>
