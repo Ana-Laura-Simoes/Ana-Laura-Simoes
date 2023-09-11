@@ -12,7 +12,7 @@
 <br/>
 
 
-- &nbsp;&nbsp;&nbsp;💻&nbsp;I’m currently working as a Software Engineer at at [OLX Brasil](https://www.linkedin.com/company/olx-brasil/mycompany/)
+- &nbsp;&nbsp;&nbsp;💻&nbsp;I’m currently working as a Software Engineer
 - &nbsp;&nbsp;&nbsp;:space_invader:&nbsp;Passionate with problem - solving and daily routines automation
 - &nbsp;&nbsp;&nbsp;📚&nbsp;Aways learning something new
 - &nbsp;&nbsp;&nbsp;💡&nbsp;Pronouns: She/Her
