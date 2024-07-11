@@ -13,7 +13,7 @@
 
 
 - &nbsp;&nbsp;&nbsp;💻&nbsp;I’m currently working as a Software Engineer
-- &nbsp;&nbsp;&nbsp;👾&nbsp;Passionate with problem - solving and daily routines automation
+- &nbsp;&nbsp;&nbsp;👾&nbsp;Enthusiastic for solving problems and automating daily routines
 - &nbsp;&nbsp;&nbsp;📚&nbsp;Aways learning something new
 - &nbsp;&nbsp;&nbsp;💡&nbsp;Pronouns: She/Her
 
